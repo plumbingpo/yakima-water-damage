@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yakimarestorationco.com/sitemap.xml
